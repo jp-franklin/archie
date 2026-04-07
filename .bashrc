@@ -14,4 +14,4 @@ export EDITOR=nvim
 export VISUAL=nvim
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.archie/ --work-tree=$HOME'
-
+alias land='nvim ~/.config/hypr/hyprland.conf'
